@@ -39,7 +39,6 @@ html{
     position: relative;
     left: 242.5px;
     width: 79.5%;
-    height: 1050px;
     font-family: 'Open Sans', sans-serif;
     
 }
@@ -212,7 +211,6 @@ ul li{
 
 .content-texto{
     width: 100%;
-    height: max-content;
     margin:0 auto;
     
 }
